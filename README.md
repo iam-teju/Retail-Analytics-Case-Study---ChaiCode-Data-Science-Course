@@ -7,23 +7,10 @@ The notebook answers three core business questions:
 2. **Customer segmentation** – Orders, spend, quantity, loyalty tiers, and classic RFM profiles.  
 3. **Customer behaviour** – Repeat-purchase patterns & actionable loyalty insights.
 
-> **Deliverables:** a runnable Jupyter notebook (`retail_case_study.ipynb`), a lightweight SQLite DB, and three cleaned CSV exports ready for downstream use.
+**Deliverables:** a runnable Jupyter notebook (`retail_case_study.ipynb`), a lightweight SQLite DB, and three cleaned CSV exports ready for downstream use.
 
 ---
 
-## 📂 Repository layout
-
-├── data/
-│ ├── sales_transaction.csv
-│ ├── customer_profiles.csv
-│ └── product_inventory.csv
-│
-├── retail_case_study.ipynb ← all analysis & visualisations
-├── clean_sales.csv
-├── customer_with_segments.csv
-├── product_performance.csv
-├── retail.db ← SQLite version of the cleaned tables
-└── README.md
 
 📝 Notebook highlights
 
