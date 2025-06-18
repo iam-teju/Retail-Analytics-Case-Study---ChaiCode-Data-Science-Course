@@ -1,0 +1,201 @@
+ProductID,Units,Revenue,ProductName,Category
+17,100,3685.5,Product_17,Beauty & Health
+87,92,2973.95,Product_87,Clothing
+156,76,2964.7200000000003,Product_156,Clothing
+149,65,2964.48,Product_149,Clothing
+187,82,2867.56,Product_187,Beauty & Health
+57,78,2801.7000000000003,Product_57,Home & Kitchen
+96,72,2773.6800000000003,Product_96,Home & Kitchen
+127,68,2736.1499999999996,Product_127,Electronics
+85,62,2694.87,Product_85,Electronics
+39,62,2685.76,Product_39,Clothing
+179,86,2663.21,Product_179,Clothing
+76,64,2639.0,Product_76,Home & Kitchen
+54,86,2624.32,Product_54,Electronics
+75,63,2611.98,Product_75,Home & Kitchen
+106,63,2584.66,Product_106,Home & Kitchen
+18,60,2583.1,Product_18,Home & Kitchen
+25,57,2529.52,Product_25,Beauty & Health
+28,69,2499.12,Product_28,Home & Kitchen
+116,75,2493.9500000000003,Product_116,Home & Kitchen
+111,56,2477.7599999999998,Product_111,Clothing
+16,65,2462.04,Product_16,Home & Kitchen
+103,66,2439.06,Product_103,Beauty & Health
+78,63,2413.58,Product_78,Electronics
+190,66,2413.3199999999997,Product_190,Beauty & Health
+36,61,2387.04,Product_36,Electronics
+84,79,2383.04,Product_84,Electronics
+141,62,2381.1200000000003,Product_141,Clothing
+119,67,2348.58,Product_119,Electronics
+153,64,2335.75,Product_153,Electronics
+69,60,2331.2999999999997,Product_69,Home & Kitchen
+42,64,2316.16,Product_42,Clothing
+19,61,2311.92,Product_19,Clothing
+195,87,2291.2,Product_195,Home & Kitchen
+151,76,2287.23,Product_151,Electronics
+180,61,2274.2400000000002,Product_180,Clothing
+185,55,2270.0,Product_185,Home & Kitchen
+83,62,2254.0,Product_83,Home & Kitchen
+200,69,2253.84,Product_200,Clothing
+82,69,2252.15,Product_82,Clothing
+171,81,2209.6,Product_171,Home & Kitchen
+8,65,2180.0,Product_8,Home & Kitchen
+129,71,2114.9700000000003,Product_129,Electronics
+49,59,2111.6699999999996,Product_49,Beauty & Health
+122,71,2107.69,Product_122,Clothing
+162,50,2101.2,Product_162,Beauty & Health
+12,61,2099.04,Product_12,Electronics
+104,72,2076.7200000000003,Product_104,Clothing
+81,73,2073.3300000000004,Product_81,Home & Kitchen
+77,53,2071.68,Product_77,Home & Kitchen
+181,74,2070.0,Product_181,Electronics
+189,66,2069.25,Product_189,Electronics
+173,71,2020.4099999999999,Product_173,Clothing
+6,51,2018.0600000000002,Product_6,Home & Kitchen
+117,60,2005.9,Product_117,Home & Kitchen
+176,59,1980.0,Product_176,Home & Kitchen
+58,75,1972.48,Product_58,Home & Kitchen
+131,51,1957.9899999999998,Product_131,Electronics
+52,59,1931.28,Product_52,Home & Kitchen
+160,51,1889.36,Product_160,Beauty & Health
+172,63,1887.16,Product_172,Beauty & Health
+44,63,1884.39,Product_44,Beauty & Health
+2,64,1876.8,Product_2,Home & Kitchen
+51,55,1862.4,Product_51,Clothing
+168,60,1849.64,Product_168,Clothing
+27,75,1775.79,Product_27,Electronics
+92,49,1729.57,Product_92,Home & Kitchen
+100,67,1721.2499999999998,Product_100,Clothing
+140,56,1719.94,Product_140,Beauty & Health
+145,59,1716.0,Product_145,Home & Kitchen
+148,68,1699.5,Product_148,Beauty & Health
+24,48,1693.8,Product_24,Electronics
+56,63,1685.04,Product_56,Electronics
+134,77,1672.64,Product_134,Beauty & Health
+71,88,1665.94,Product_71,Electronics
+10,79,1664.31,Product_10,Electronics
+124,39,1663.62,Product_124,Clothing
+59,72,1662.08,Product_59,Home & Kitchen
+89,61,1661.06,Product_89,Home & Kitchen
+3,48,1653.12,Product_3,Home & Kitchen
+193,56,1644.0,Product_193,Clothing
+88,57,1601.38,Product_88,Electronics
+73,56,1576.6499999999999,Product_73,Home & Kitchen
+114,57,1563.1999999999998,Product_114,Electronics
+107,52,1530.69,Product_107,Beauty & Health
+94,61,1524.67,Product_94,Home & Kitchen
+79,74,1512.6000000000001,Product_79,Clothing
+125,79,1510.04,Product_125,Beauty & Health
+169,62,1508.64,Product_169,Home & Kitchen
+80,65,1457.0,Product_80,Electronics
+196,55,1453.1,Product_196,Home & Kitchen
+128,64,1443.48,Product_128,Clothing
+63,46,1440.78,Product_63,Electronics
+55,56,1422.96,Product_55,Electronics
+102,52,1415.04,Product_102,Beauty & Health
+147,59,1403.48,Product_147,Clothing
+152,47,1403.3799999999999,Product_152,Electronics
+15,71,1397.7,Product_15,Home & Kitchen
+91,35,1371.9,Product_91,Home & Kitchen
+47,55,1356.72,Product_47,Clothing
+11,54,1346.6499999999999,Product_11,Electronics
+99,69,1331.1,Product_99,Home & Kitchen
+154,63,1329.65,Product_154,Home & Kitchen
+194,53,1325.95,Product_194,Home & Kitchen
+167,49,1324.0,Product_167,Beauty & Health
+130,59,1317.21,Product_130,Electronics
+38,68,1315.75,Product_38,Electronics
+198,36,1290.45,Product_198,Electronics
+50,40,1286.4899999999998,Product_50,Beauty & Health
+68,74,1277.7,Product_68,Beauty & Health
+143,55,1276.38,Product_143,Clothing
+174,33,1270.5,Product_174,Beauty & Health
+115,51,1255.0,Product_115,Clothing
+29,62,1241.76,Product_29,Electronics
+90,74,1219.23,Product_90,Beauty & Health
+191,66,1211.75,Product_191,Home & Kitchen
+192,67,1199.8,Product_192,Beauty & Health
+121,46,1196.2,Product_121,Beauty & Health
+184,54,1195.77,Product_184,Home & Kitchen
+137,72,1181.18,Product_137,Electronics
+182,102,1171.54,Product_182,Electronics
+177,86,1170.0,Product_177,Clothing
+7,61,1164.0,Product_7,Home & Kitchen
+188,84,1159.04,Product_188,Beauty & Health
+32,61,1139.32,Product_32,Electronics
+70,57,1138.02,Product_70,Electronics
+72,57,1119.3600000000001,Product_72,Home & Kitchen
+136,45,1102.95,Product_136,Home & Kitchen
+67,48,1100.75,Product_67,Electronics
+95,60,1086.96,Product_95,Beauty & Health
+97,49,1061.8000000000002,Product_97,Beauty & Health
+74,69,1051.25,Product_74,Clothing
+31,46,1024.0,Product_31,Electronics
+165,51,1015.3,Product_165,Beauty & Health
+163,39,1012.2,Product_163,Clothing
+155,70,1006.72,Product_155,Electronics
+183,73,979.8,Product_183,Beauty & Health
+37,45,942.72,Product_37,Home & Kitchen
+60,35,942.1999999999999,Product_60,Beauty & Health
+166,76,884.7299999999999,Product_166,Beauty & Health
+23,52,869.4,Product_23,Beauty & Health
+93,79,860.4300000000001,Product_93,Clothing
+150,43,842.08,Product_150,Beauty & Health
+34,41,841.16,Product_34,Home & Kitchen
+1,40,829.98,Product_1,Clothing
+138,59,828.96,Product_138,Beauty & Health
+98,79,824.85,Product_98,Electronics
+22,85,814.8000000000001,Product_22,Beauty & Health
+45,60,792.1199999999999,Product_45,Electronics
+113,58,774.5,Product_113,Clothing
+61,61,773.22,Product_61,Clothing
+43,55,769.81,Product_43,Beauty & Health
+86,44,744.66,Product_86,Home & Kitchen
+33,31,743.88,Product_33,Clothing
+62,66,740.04,Product_62,Home & Kitchen
+144,55,731.76,Product_144,Clothing
+48,69,720.1999999999999,Product_48,Clothing
+108,66,713.6899999999999,Product_108,Home & Kitchen
+175,61,701.25,Product_175,Home & Kitchen
+120,64,699.89,Product_120,Electronics
+26,57,697.32,Product_26,Home & Kitchen
+123,58,679.86,Product_123,Beauty & Health
+14,51,664.44,Product_14,Electronics
+64,51,652.0500000000001,Product_64,Home & Kitchen
+197,71,641.5200000000001,Product_197,Electronics
+13,85,638.52,Product_13,Electronics
+199,62,635.26,Product_199,Home & Kitchen
+53,58,630.48,Product_53,Electronics
+40,67,624.78,Product_40,Clothing
+110,65,610.08,Product_110,Beauty & Health
+186,58,609.96,Product_186,Beauty & Health
+133,41,580.55,Product_133,Home & Kitchen
+4,58,551.5,Product_4,Clothing
+142,27,501.04999999999995,Product_142,Home & Kitchen
+101,76,488.65000000000003,Product_101,Home & Kitchen
+65,75,481.32000000000005,Product_65,Clothing
+158,47,467.67,Product_158,Beauty & Health
+41,35,432.48,Product_41,Clothing
+126,71,410.13,Product_126,Electronics
+170,78,409.5,Product_170,Clothing
+30,55,405.72,Product_30,Home & Kitchen
+157,56,404.03999999999996,Product_157,Beauty & Health
+112,70,382.4,Product_112,Electronics
+118,72,378.3,Product_118,Beauty & Health
+146,76,365.96999999999997,Product_146,Beauty & Health
+132,63,363.44,Product_132,Electronics
+135,65,354.69,Product_135,Beauty & Health
+159,35,348.40000000000003,Product_159,Beauty & Health
+46,60,324.75,Product_46,Home & Kitchen
+105,52,321.8,Product_105,Beauty & Health
+164,73,321.15999999999997,Product_164,Clothing
+109,66,311.35999999999996,Product_109,Home & Kitchen
+9,60,304.6,Product_9,Clothing
+21,49,300.09,Product_21,Home & Kitchen
+178,55,291.46000000000004,Product_178,Clothing
+35,57,289.0,Product_35,Beauty & Health
+5,47,287.52,Product_5,Beauty & Health
+66,62,251.25000000000003,Product_66,Beauty & Health
+20,58,242.19,Product_20,Beauty & Health
+161,50,240.89999999999998,Product_161,Clothing
+139,47,185.4,Product_139,Beauty & Health
